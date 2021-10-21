@@ -10,6 +10,8 @@ Use [KiCad](https://www.kicad.org/) with my [CustomComponents](https://github.co
 
 ## Specification
 
+The `39 mm * 39 mm` dual-side PCB carries a `35 mm * 35 mm` coil on the top side.
+
 The antenna coil has a theoretical inductance of `2.196 µH`. To achieve the ideal inductance of `2.46 µH`, a tuning capacitor `C1` (0805 size) has to be added.
 
 ## Thanks To
