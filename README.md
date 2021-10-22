@@ -6,7 +6,7 @@ Breakout and antenna board for a 13.56 MHz NFC/RFID smartcard IC in the contactl
 
 ## Usage
 
-Use [KiCad](https://www.kicad.org/) with my [CustomComponents](https://github.com/StarGate01/KiCadLibs) library to view and edit the hardware project, or download the [fabrication files](https://github.com/StarGate01/rfid-breakout/tree/master/fabrication/rev1/gerber) for PCB manufacturing. I used the [RF-Tools for KiCAD](https://github.com/easyw/RF-tools-KiCAD) to create the rounded traces.
+Use [KiCad](https://www.kicad.org/) with my [CustomComponents](https://github.com/StarGate01/KiCadLibs) library to view and edit the hardware project, or download the [fabrication files](https://github.com/StarGate01/rfid-breakout/tree/master/fabrication/rev1_1/gerber) for PCB manufacturing. I used the [RF-Tools for KiCAD](https://github.com/easyw/RF-tools-KiCAD) to create the rounded traces.
 
 ## Specification
 
