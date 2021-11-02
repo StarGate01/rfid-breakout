@@ -2,7 +2,18 @@
 
 Breakout and antenna board for a 13.56 MHz NFC/RFID smartcard IC in the contactless MOB package.
 
-![PCB](https://raw.githubusercontent.com/StarGate01/rfid-breakout/master/images/render.jpg)
+<details>
+  <summary>PCB Render</summary>
+  
+![PCB render](https://raw.githubusercontent.com/StarGate01/rfid-breakout/master/images/render.jpg)
+</details>
+<details>
+  <summary>Manufactured PCB</summary>
+  
+![PCB done](https://raw.githubusercontent.com/StarGate01/rfid-breakout/master/images/pcbs_r1_1.jpg)
+ 
+Manufactured by [PCBWay](https://www.pcbway.com/).
+</details>
 
 ## Usage
 
@@ -12,10 +23,12 @@ Use [KiCad](https://www.kicad.org/) with my [CustomComponents](https://github.co
 
 The `39 mm * 39 mm` dual-side PCB carries a `35 mm * 35 mm` coil on the top side.
 
-The antenna coil has a theoretical inductance of `2.196 µH`. To achieve the theoretic ideal inductance of `2.46 µH` (for an IC input capacitance of `56 pF`), a tuning capacitor `C1` (0805 size) of `TBA pF` has to be added.
+[TODO] Add theory of tuning & NanoVNA
+
+The antenna coil has a theoretical inductance of `2.196 µH`. To achieve the theoretic ideal inductance of `2.46 µH` (for an IC input capacitance of `56 pF`), a tuning capacitor `C1` (0805 size) of `[TODO] pF` has to be added.
 
 ## Thanks To
 
-This project has been generously sponsored and manufactured by [PCBWay](https://www.pcbway.com/). [TODO: review]
+This project has been generously sponsored and manufactured by [PCBWay](https://www.pcbway.com/). The PCBs turned out great, as usual. A functional test will follow shortly [TODO].
 
 Special thanks to *Satur9* for the [Coil Inductance Calculator](https://forum.dangerousthings.com/t/coil-inductance-calculator/4952) and also general help with the PCB design.
