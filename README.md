@@ -25,6 +25,14 @@ The `39 mm * 39 mm` dual-side PCB carries a `35 mm * 35 mm` coil on the top side
 
 The antenna coil has a theoretical inductance of `2.196 µH`. To achieve the theoretic ideal inductance of `2.46 µH` (for an IC input capacitance of `56 pF`), a tuning capacitor `C1` (0805 size) of `10pF` has to be added. This reduces the inherent resonant frequency from `15 MHz` down to `13.8 MHz`.
 
+<details>
+  <summary>Frequency Response Measurements</summary>
+  
+  These measuremetns were conducted using the [NanoNVA](https://nanorfe.com/) device.
+  
+![Frequency Response](https://raw.githubusercontent.com/StarGate01/rfid-breakout/master/images/measure.png)
+</details>
+
 ## Thanks To
 
 This project has been generously sponsored and manufactured by [PCBWay](https://www.pcbway.com/). The PCBs turned out great, as usual.
