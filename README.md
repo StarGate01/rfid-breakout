@@ -2,6 +2,8 @@
 
 Breakout and antenna board for a 13.56 MHz NFC/RFID smartcard IC in the contactless MOB package.
 
+[Blog for for more details](https://chrz.de/2022/01/27/nfc-hacking-part-2-building-custom-hardware-tokens/).
+
 <details>
   <summary>PCB Render</summary>
   
